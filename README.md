@@ -6,3 +6,4 @@ Upload a .csv file of sequential brain wave data to analyze.
 ## Features: 
 - Multiclassification of traumatic events
 - Feature selection
+- Time Series Analysis
